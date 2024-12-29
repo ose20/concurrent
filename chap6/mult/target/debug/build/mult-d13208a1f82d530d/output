@@ -1,0 +1,3 @@
+cargo:rustc-link-search=native=asm
+cargo:rustc-link-lib=static=context
+cargo:return-if-changed=asm/context.S

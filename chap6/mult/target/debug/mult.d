@@ -1,0 +1,1 @@
+/home/ose20/github/ose20/concurrent/chap6/mult/target/debug/mult: /home/ose20/github/ose20/concurrent/chap6/mult/build.rs /home/ose20/github/ose20/concurrent/chap6/mult/src/green.rs /home/ose20/github/ose20/concurrent/chap6/mult/src/main.rs
